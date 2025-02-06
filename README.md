@@ -1,4 +1,9 @@
-## Hi there 👋
+![Fox](photo_2023-06-17_12-27-24.jpg)
+
+I'm Vireak, I do do front-end stuff on SF Hacks.
+
+I yip yap twice a second, and tip tap on my 'puter twice an hour.
+
 
 <!--
 **Vixeln/Vixeln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
