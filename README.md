@@ -1,4 +1,4 @@
-![Fox](photo_2023-06-17_12-27-24.jpg)
+![Fox](/fox.jpg)
 
 I'm Vireak, I do do front-end stuff on SF Hacks.
 
